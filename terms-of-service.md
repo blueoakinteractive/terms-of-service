@@ -1,6 +1,6 @@
 ## Terms & Conditions
 
-Updated July 17th 2013
+Updated July 31th 2015
 
 The use of services from Blue Oak Interactive, LLC [hereafter referred to as "Blue Oak Interactive"] constitutes agreement to these terms.
 
