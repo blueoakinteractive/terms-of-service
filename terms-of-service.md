@@ -76,5 +76,9 @@ Blue Oak Interactive shall not be responsible for any damages your business may 
 ### 13.) Disclosure to law enforcement
 Blue Oak Interactive may disclose any subscriber information to law enforcement agencies without further consent or notification to the subscriber upon lawful request from such agencies. We will cooperate fully with law enforcement agencies.
 
-### 14.) Changes to the TOS
+### 14.) Severability
+
+The provisions of this Agreement are separate and independent covenants, and the invalidity or non-enforceability of any section shall in no way affect the validity or enforceability of the others.
+
+### 15.) Changes to the TOS
 Blue Oak Interactive reserves the right to revise its policies at any time without notice.
