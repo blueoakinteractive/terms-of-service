@@ -1,6 +1,6 @@
 ## Terms & Conditions
 
-Updated July 31th 2015
+Updated Oct 24th 2017
 
 The use of services from Blue Oak Interactive, LLC [hereafter referred to as "Blue Oak Interactive"] constitutes agreement to these terms.
 
@@ -15,8 +15,7 @@ All discounts, promotions and special third party offers may be subject to addit
 We do not make any representations or warranties regarding, and are not liable for, the quality, availability, or timeliness of goods or services provided by a third party provider. You undertake all transactions with these providers at your own risk. We do not warrant the accuracy or completeness of any information regarding third party providers.
 
 ### 3.) Content
-All services provided by Blue Oak Interactive may only be used for lawful purposes. The laws of the State of North Carolina, the State of California, the State of Texas, the State of New York, and the United States of America apply.
-The customer agrees to indemnify and hold harmless Blue Oak Interactive from any claims resulting from the use of our services.
+All services provided by Blue Oak Interactive may only be used for lawful purposes. The laws of the State of North Carolina and the United States of America apply. The customer agrees to indemnify and hold harmless Blue Oak Interactive from any claims resulting from the use of our services.
 
 Use of our services to infringe upon any copyright or trademark is prohibited. This includes but is not limited to unauthorized copying of music, books, photographs, or any other copyrighted work. The offer of sale of any counterfeit merchandise of a trademark holder will result in the immediate termination of your account. Any account found to be in violation of anothers copyright will be expeditiously removed, or access to the material disabled. Any account found to be in repeated violation of copyright laws will be suspended and/or terminated from our hosting. If you believe that your copyright or trademark is being infringed upon, please email support@blueoakinteractive.com with the information required.
 
